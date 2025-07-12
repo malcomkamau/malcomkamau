@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on a full-stack E-Commerce website<br>🤝 I’m looking for help with creating an operating system<br>🌱 I’m currently learning systems-level development with Rust
 
 
