@@ -42,7 +42,7 @@ I am a full-stack developer and systems programming enthusiast with a strong foc
 ## Contact
 
 **Email:** [malcomkamau504@gmail.com](mailto:malcomkamau504@gmail.com)  
-**Portfolio:** *[porfolio-malcomgakuo.vercel.app]*
+**Portfolio:** *[porfolio-malcomgakuo.vercel.app](porfolio-malcomgakuo.vercel.app)*
 
 ---
 
