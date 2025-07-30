@@ -11,22 +11,22 @@ I am a full-stack developer and systems programming enthusiast with a strong foc
 ## Technical Skills
 
 **Languages:**  
-C, C++, C#, Java, JavaScript, TypeScript, Python, PHP, Rust, Kotlin, Dart, Bash
+&nbsp;&nbsp;&nbsp;&nbsp;**C**, **C++**, **C#**, **Java**, **JavaScript**, **TypeScript**, **Python**, **PHP**, **Rust**, **Kotlin**, **Dart**, **Bash**
 
 **Frontend Development:**  
-React, React Native, Flutter, Tailwind CSS, HTML5, CSS3, Bootstrap, Blazor, JavaFX
+&nbsp;&nbsp;&nbsp;&nbsp;**React**, **React Native**, **Flutter**, **Tailwind CSS**, **HTML5**, **CSS3**, **Bootstrap**, **Blazor**, **JavaFX**
 
 **Backend & Frameworks:**  
-Node.js, Express.js, Spring Boot, .NET, PocketBase, Apache, NPM
+&nbsp;&nbsp;&nbsp;&nbsp;**Node.js**, **Express.js**, **Spring Boot**, **.NET**, **PocketBase**, **Apache**
 
 **Databases:**  
-MySQL, MariaDB
+&nbsp;&nbsp;&nbsp;&nbsp;**MySQL**, **MariaDB**
 
 **Tools & Platforms:**  
-Git, GitHub, Docker, Windows Terminal, Anaconda, Raspberry Pi, Cisco Networking, Linux (Kali, Ubuntu)
+&nbsp;&nbsp;&nbsp;&nbsp;**Git**, **GitHub**, **Docker**, **Windows Terminal**, **Anaconda**, **Raspberry Pi**, **Cisco Networking**, **Linux (Kali, Ubuntu)**
 
 **Other Interests:**  
-Game development (Unity, Unreal Engine), 3D modeling (Blender), Privacy Tools (TOR)
+&nbsp;&nbsp;&nbsp;&nbsp;**Unity**, **Unreal Engine**, **Blender**, **TOR**
 
 ## GitHub Stats
 
@@ -41,9 +41,8 @@ Game development (Unity, Unreal Engine), 3D modeling (Blender), Privacy Tools (T
 
 ## Contact
 
-Email: [malcomkamau504@gmail.com](mailto:malcomkamau504@gmail.com)  
-LinkedIn: *[Insert LinkedIn URL]*  
-Portfolio: *[Insert website/portfolio URL]*
+**Email:** [malcomkamau504@gmail.com](mailto:malcomkamau504@gmail.com)  
+**Portfolio:** *[porfolio-malcomgakuo.vercel.app]*
 
 ---
 
