@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" alt="Tech Banner" />
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="250px" style="object-fit: cover;" alt="Tech Banner" />
 </p>
 
-<h1 align="center">Malcom Kamau</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full Stack Developer & Systems Engineer</strong>
-</p>
+# Malcom Kamau
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Designing+operating+systems+from+scratch;Solving+complex+problems+with+code" alt="Typing SVG" />
-  </a>
-</p>
+## Full Stack Developer & Systems Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-white?style=flat-square&logo=github&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Focus-System%20Architecture-black?style=flat-square&logo=codesandbox&logoColor=white" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=800&height=50&lines=Building+scalable+web+applications;Designing+operating+systems+from+scratch;Solving+complex+problems+with+code" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-Online-white?style=for-the-badge&logo=github&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Focus-System%20Architecture-black?style=for-the-badge&logo=codesandbox&logoColor=white" />
+
+</div>
 
 ---
 
