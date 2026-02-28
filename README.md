@@ -21,13 +21,24 @@
 
 ---
 
-### 🌐 SYSTEM_MANIFESTO
-> **[LOG_01]** I bridge the gap between **Human-Centric Interfaces** and **Bare-Metal Performance**. My engineering philosophy centers on efficiency, security, and architectural elegance.
+### 📖 About Me
+
+I specialize in the bridge between **Human-Centric Interfaces** and **High-Performance Logic**. My goal is to build software that is both elegant to use and efficient at the system level.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-FULLSTACK_SYSTEMS-00B4D8?style=for-the-badge&logo=cpu" />
-  <img src="https://img.shields.io/badge/STATUS-COMPILING_MALCOM_OS-white?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Systems-black?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current-Building%20MalcomOS-white?style=for-the-badge&logo=rust&logoColor=black" />
 </p>
+
+---
+
+### 🏗️ Current Projects
+
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **E-Commerce Ecosystem** | React & Node.js | Stable Release |
+| **Custom Rust Kernel** | Rust & x86_64 | Active Development |
+| **Network Infrastructure** | Linux & Cisco | Continuous Learning |
 
 ---
 
