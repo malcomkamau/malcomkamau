@@ -62,7 +62,7 @@
 ### Technologies
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dotnet,nodejs,spring,express,rust,cpp,c,cs,java,py,kotlin,dart,mysql,docker,github,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dotnet,nodejs,spring,express,rust,cpp,c,cs,java,py,kotlin,dart,mysql,docker,arduino,bash,debian,git,js,kali,npm,php,postgres,sqlite,sequelize,ts,ubuntu,vite,windows,github,linux&perline=10" />
   <br/>
 </div>
 
