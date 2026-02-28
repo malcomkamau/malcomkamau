@@ -1,11 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=180&section=header&text=SYSTEM%20ARCHITECT:%20MALCOM&fontSize=60&animation=twinkling&fontAlignY=50" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4bmZ6eXN6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxcaNn9X44/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f2ff&text=MALCOM%20KAMAU&height=100&fontSize=80&desc=ESTABLISHING_LINK...&descSize=20&descAlignY=75&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=INIT_CORE_MANIFESTO...;EXECUTING_LOW_LEVEL_LOGIC;OPTIMIZING_SCALABLE_SYSTEMS;BUILDING_RUST_KERNELS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=CORE_SYSTEM_ARCHITECT;LOW_LEVEL_LOGIC_ENGINEER;FULL_STACK_EVOLUTION;RUST_OS_DEVELOPER" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00f2ff?style=for-the-badge&logo=statuspage&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/LOCATION-127.0.0.1-white?style=for-the-badge&logo=databricks&logoColor=black" />
 </p>
 
 ---
