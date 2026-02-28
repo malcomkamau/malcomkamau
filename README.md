@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" alt="Dark Industrial Tech Banner" />
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" alt="Tech Banner" />
 </p>
 
+<h1 align="center">Malcom Kamau</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Malcom%20Kamau&height=100&fontSize=80&desc=Full%20Stack%20Developer%20and%20Systems%20Engineer&descSize=20&descAlignY=75&animation=fadeIn" />
+  <strong>Full Stack Developer & Systems Engineer</strong>
 </p>
 
 <p align="center">
