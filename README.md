@@ -6,11 +6,11 @@
 <br/>
 
 <!-- SYSTEM SIGNATURE -->
-# 🖥️ MALCOM_KAMAU // [LOGIC_ARCHITECT] 
-### 「 LVL_99_SYSTEMS_ENGINEER 」
+# 🖥️ Malcom Kamau // Full Stack Developer
+### 「 Building Scalable Systems 」
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=CORE_INIT:+STABLE;LOAD_MODULE:+FULLSTACK_JS;LOAD_MODULE:+RUST_KERNEL;UPLINK_STATUS:+OPTIMAL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+my+Profile;Building+Web+Applications;Developing+Operating+Systems;Systems+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,14 +25,14 @@
 
 ---
 
-### 📡 [IDENTITY_SCAN] // SYSTEM_BIOS
+### 📡 About Me
 ```yaml
-user_profile:
-  id: "Malcom_Kamau"
-  class: "Full_Stack_Systems_Engineer"
-  specialization: [ "Kernel_Development", "Scalable_Architectures", "UI_Atomic_Design" ]
-  motto: "Solving complexity with high-performance logic."
-  current_objective: "Building MalcomOS // Custom x86_64 Kernel in Rust"
+profile:
+  name: "Malcom Kamau"
+  role: "Full Stack Developer & Systems Engineer"
+  interests: [ "Operating Systems", "Scalable Web Apps", "User Experience" ]
+  motto: "Solving complex problems with elegant code."
+  current_project: "MalcomOS // A custom computer system built in Rust"
 ```
 
 <p align="center">
@@ -41,16 +41,16 @@ user_profile:
 
 ---
 
-### 🏗️ [LOGIC_CORE] // ACTIVE_MODULES
-| CID | MODULE_NAMESPACE | ENGINE_VERSION | STATUS_CODE |
-| :--- | :--- | :--- | :--- |
-| `0x01` | **E-Commerce_Ecosystem** | `React // Node.js` | `STABLE` |
-| `0x02` | **Custom_Rust_Kernel** | `Rust // x86_64` | `BUILD_IN_PROGRESS` |
-| `0x03` | **Network_Infra** | `Cisco // Linux` | `CI_CONTINUOUS` |
+### 🏗️ Current Projects
+| Project Name | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **E-Commerce Ecosystem** | `React // Node.js` | `Stable` |
+| **Custom Rust Kernel** | `Rust // x86_64` | `In Development` |
+| **Network Infrastructure** | `Cisco // Linux` | `Active Learning` |
 
 ---
 
-### 🚀 [ORBITAL_STATION] // TECH_STACK
+### 🚀 Technologies
 <div align="center">
   <br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dotnet,nodejs,spring,express,rust,cpp,c,cs,java,py,kotlin,dart,mysql,docker,github,linux&perline=10" />
@@ -61,7 +61,7 @@ user_profile:
 
 ---
 
-### 📊 [DATA_STREAM] // MONOCHROME_ANALYTICS
+### 📊 My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malcomkamau&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=000000&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcomkamau&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=000000&hide_border=true" width="42%" />
@@ -73,12 +73,12 @@ user_profile:
 
 ---
 
-### 🛠️ [WORKSPACE_SETUP]
+### 🛠️ My Setup
 ```json
 {
-  "hardware": ["Raspberry_Pi", "Custom_Desktop", "Nvidia_Jetson"],
-  "software_os": ["Ubuntu_Linux", "Kali", "Windows_Subsystem"],
-  "interface": ["Alacritty", "Zsh", "Vim_Core"]
+  "hardware": ["Raspberry Pi", "Custom Desktop PC", "Nvidia Jetson"],
+  "operating_systems": ["Ubuntu Linux", "Kali Linux", "Windows"],
+  "tools": ["Docker", "Git", "VS Code"]
 }
 ```
 
