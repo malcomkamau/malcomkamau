@@ -19,8 +19,6 @@
 [![Portfolio](https://img.shields.io/badge/LINK-PORTFOLIO-white?style=for-the-badge&logo=vercel&logoColor=black)](https://porfolio-malcomgakuo.vercel.app)
 [![Email](https://img.shields.io/badge/LINK-EMAIL-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malcomkamau504@gmail.com)
 [![GitHub](https://img.shields.io/badge/LINK-GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/malcomkamau)
-[![LinkedIn](https://img.shields.io/badge/LINK-LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malcomkamau)
-
 </div>
 
 ---
@@ -40,9 +38,6 @@
         <li> <b>Web Apps:</b> Creating fast and scalable websites. </li>
         <li> <b>Systems:</b> Exploring the bridge between software and hardware. </li>
       </ul>
-      <br/>
-      <img src="https://img.shields.io/badge/Located-Jkuat,_Kenya-black?style=flat&logo=map&logoColor=white" />
-      <img src="https://img.shields.io/badge/Status-Learning_%26_Building-white?style=flat&logo=codesandbox&logoColor=black" />
     </td>
     <td width="35%" align="center" valign="middle">
       <div style="border: 2px solid #555; border-radius: 15px; padding: 10px; background: #000;">
@@ -95,10 +90,3 @@
   "tools": ["Docker", "Git", "VS Code"]
 }
 ```
-
-<br/>
-
-<div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=malcomkamau&icon=0&color=12" />
-  <p><i>STATUS_UPLINK: ACTIVE</i></p>
-</div>
