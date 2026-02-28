@@ -6,7 +6,7 @@
 <br/>
 
 <!-- SYSTEM SIGNATURE -->
-# Malcom Kamau // Full Stack Developer
+# Malcom Kamau // Software Engineer
 ### 「 Building Scalable Systems 」
 
 <a href="https://git.io/typing-svg">
