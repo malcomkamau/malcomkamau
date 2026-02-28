@@ -1,49 +1,40 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="250px" style="object-fit: cover;" alt="Tech Banner" />
-</p>
-
 <div align="center">
 
-# Malcom Kamau
+<!-- HEADER_START -->
+<p align="center">
+  <img src="./banner.jpeg" width="100%" alt="System Header" />
+</p>
 
-## Full Stack Developer & Systems Engineer
+# 📂 MALCOM_KAMAU // SYTEM_ARCHITECT
+### 「 FULL_STACK_LOGIC_ENGINEER 」
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=800&height=50&lines=Building+scalable+web+applications;Designing+operating+systems+from+scratch;Solving+complex+problems+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=INITIALIZING+SYSTEM...;LOAD_MODULE:+FULLSTACK_JS;LOAD_MODULE:+RUST_KERNEL;SYSTEM_STATUS:+OPTIMAL" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Online-white?style=for-the-badge&logo=github&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Focus-System%20Architecture-black?style=for-the-badge&logo=codesandbox&logoColor=white" />
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-black?style=for-the-badge&logo=octostudio&logoColor=white)](https://github.com/malcomkamau)
+[![Location](https://img.shields.io/badge/LOC-0.0.0.0-white?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/malcomkamau)
+<!-- HEADER_END -->
 
 </div>
 
 ---
 
-### 📖 About Me
-
-I specialize in the bridge between **Human-Centric Interfaces** and **High-Performance Logic**. My goal is to build software that is both elegant to use and efficient at the system level.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Systems-black?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current-Building%20MalcomOS-white?style=for-the-badge&logo=rust&logoColor=black" />
-</p>
-
----
-
-### 🏗️ Current Projects
-
-| Project | Tech Stack | Status |
-| :--- | :--- | :--- |
-| **E-Commerce Ecosystem** | React & Node.js | Stable Release |
-| **Custom Rust Kernel** | Rust & x86_64 | Active Development |
-| **Network Infrastructure** | Linux & Cisco | Continuous Learning |
+### 📡 INITIAL_CONNECTION // ABOUT_ME
+```yaml
+identity:
+  name: Malcom Kamau
+  role: Full Stack Developer & Systems Engineer
+  focus: [System_Architecture, High_Performance_Computing, UI_UX_Atomic_Design]
+  status: "Bridging the gap between Human-Centric Interfaces and Metal."
+```
 
 ---
 
 ### 🏗️ ACTIVE_CONSTRUCTION_MODULES
-| MODULE_ID | PROJECT_NODE | ENGINE | STATUS |
+| MODULE_ID | PROJECT_NODE | CORE_ENGINE | STATUS |
 | :--- | :--- | :--- | :--- |
 | `0x01` | **E-Commerce Ecosystem** | `React // Node.js` | `STABLE_RELEASE` |
 | `0x02` | **Custom Rust Kernel** | `Rust // x86_64` | `ACTIVE_BUILD` |
@@ -51,19 +42,17 @@ I specialize in the bridge between **Human-Centric Interfaces** and **High-Perfo
 
 ---
 
-### 🚀 TECH_ORBITAL_STATIONS
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dotnet,nodejs,spring,express" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,java,py,kotlin,dart,mysql,docker,github,linux" />
-</p>
+### 🚀 TECH_ORBITAL_STATIONS // STACK
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dotnet,nodejs,spring,express,rust,cpp,c,cs,java,py,kotlin,dart,mysql,docker,github,linux&perline=10" />
+</div>
 
 ---
 
-### 📊 ANALYTICS_REALTIME_STREAM
+### 📊 DATA_STREAM // REALTIME_ANALYTICS
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=malcomkamau&show_icons=true&theme=tokyonight&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0D1117" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcomkamau&layout=compact&theme=tokyonight&title_color=00B4D8&text_color=ffffff&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malcomkamau&show_icons=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=00000000&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcomkamau&layout=compact&theme=transparent&title_color=ffffff&text_color=aaaaaa&bg_color=00000000&hide_border=true" />
 </p>
 
 ---
@@ -81,16 +70,23 @@ I specialize in the bridge between **Human-Centric Interfaces** and **High-Perfo
   }
 }
 ```
-📡 CONNECT_UPLINK
-<p align="center">
-<a href="mailto:malcomkamau504@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Direct_Message-00B4D8%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-<a href="https://www.google.com/search?q=https://porfolio-malcomgakuo.vercel.app"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Terminal_Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" /></a>
-</p>
+
+---
+
+### 📡 UPLINK_CHANNELS
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-UPLINK-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malcomkamau504@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-TERMINAL-white?style=for-the-badge&logo=vercel&logoColor=black)](https://porfolio-malcomgakuo.vercel.app)
+
+</div>
+
+<br>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight%26text_color%3D00B4D8" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=ffffff&bg_color=00000000" />
 </p>
 
 <p align="right">
-<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Dmalcomkamau%26icon%3D5%26color%3D0" />
+  <img src="https://visitcount.itsvg.in/api?id=malcomkamau&icon=0&color=12" />
 </p>
