@@ -25,19 +25,33 @@
 
 ---
 
-### 📡 About Me
-```yaml
-profile:
-  name: "Malcom Kamau"
-  role: "Full Stack Developer & Systems Engineer"
-  interests: [ "Operating Systems", "Scalable Web Apps", "User Experience" ]
-  motto: "Solving complex problems with elegant code."
-  current_project: "MalcomOS // A custom computer system built in Rust"
-```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXgxZ3RxbTVicXJ6eXgxZ3RxbTVicXJ6eXgxZ3RxbTVicXJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKDkDbIDJieKbVm/giphy.gif" width="300px" style="border: 2px solid #555; border-radius: 10px;" />
-</p>
+<!-- ABOUT ME REDESIGN -->
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h1> 👋 Hello, I'm Malcom! </h1>
+      <p>
+        I'm a <b>Full Stack Developer</b> and <b>Systems Engineering Student</b> based in Kenya. I love building things that are both technically complex and easy to use. 
+      </p>
+      <br/>
+      <h4> 📡 CURRENT_FOCUS </h4>
+      <ul>
+        <li> <b>Operating Systems:</b> Building my own kernel using Rust. </li>
+        <li> <b>Web Apps:</b> Creating fast and scalable websites. </li>
+        <li> <b>Systems:</b> Exploring the bridge between software and hardware. </li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/Located-Jkuat,_Kenya-black?style=flat&logo=map&logoColor=white" />
+      <img src="https://img.shields.io/badge/Status-Learning_%26_Building-white?style=flat&logo=codesandbox&logoColor=black" />
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <div style="border: 2px solid #555; border-radius: 15px; padding: 10px; background: #000;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXgxZ3RxbTVicXJ6eXgxZ3RxbTVicXJ6eXgxZ3RxbTVicXJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKDkDbIDJieKbVm/giphy.gif" width="100%" alt="Visual Feed" />
+        <p style="color: #888; font-family: monospace; font-size: 10px; margin-top: 5px;">「 VISUAL_FEED_01 」</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,7 +91,7 @@ profile:
 ```json
 {
   "hardware": ["Raspberry Pi", "Custom Desktop PC", "Nvidia Jetson"],
-  "operating_systems": ["Ubuntu Linux", "Kali Linux", "Windows"],
+  "operating_systems": ["Kali Linux", "Windows"],
   "tools": ["Docker", "Git", "VS Code"]
 }
 ```
