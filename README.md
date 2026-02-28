@@ -1,38 +1,67 @@
 <div align="center">
 
-<!-- HEADER_START -->
-<p align="center">
-  <img src="./banner.jpeg" width="100%" alt="System Header" />
-</p>
+<!-- BANNER -->
+<img src="./banner.jpeg" width="100%" />
 
-# 📂 MALCOM_KAMAU // SYTEM_ARCHITECT
-### 「 FULL_STACK_LOGIC_ENGINEER 」
+<br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=INITIALIZING+SYSTEM...;LOAD_MODULE:+FULLSTACK_JS;LOAD_MODULE:+RUST_KERNEL;SYSTEM_STATUS:+OPTIMAL" alt="Typing SVG" />
-</a>
+<!-- NAVIGATION -->
+### [ 💼 PORTFOLIO ](https://porfolio-malcomgakuo.vercel.app) &nbsp;&nbsp; • &nbsp;&nbsp; [ ✉️ EMAIL ](mailto:malcomkamau504@gmail.com) &nbsp;&nbsp; • &nbsp;&nbsp; [ 🐙 GITHUB ](https://github.com/malcomkamau) &nbsp;&nbsp; • &nbsp;&nbsp; [ 🔗 LINKEDIN ](https://linkedin.com/in/malcomkamau)
 
-<br>
+<br/>
 
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-black?style=for-the-badge&logo=octostudio&logoColor=white)](https://github.com/malcomkamau)
-[![Location](https://img.shields.io/badge/LOC-0.0.0.0-white?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/malcomkamau)
-<!-- HEADER_END -->
+---
 
+<!-- ABOUT ME SECTION -->
+<table>
+  <tr>
+    <td width="60%">
+      <h1> 👋 Hello! I'm Malcom Kamau </h1>
+      <p>
+        I am a <b>Systems Engineering Student</b> and <b>Full Stack Developer</b>. I enjoy learning new technologies and problem solving at the system level. Currently, I'm working on several projects involving <b>Rust</b>, <b>Node.js</b>, and <b>System Architecture</b>.
+      </p>
+      <p>
+        🔭 <b>Studying at:</b> Jomo Kenyatta University of Agriculture and Technology (JKUAT)<br/>
+        💻 <b>Building:</b> MalcomOS - A custom x86_64 Kernel in Rust<br/>
+        🚀 <b>Focus:</b> Bridging the gap between software and hardware.<br/>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXgxZ3RxbTVicXJ6eXgxZ3RxbTVicXJ6eXgxZ3RxbTVicXJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKDkDbIDJieKbVm/giphy.gif" width="200px" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- TECHNOLOGIES -->
+<div align="center">
+  <h3> 🛠️ Technologies </h3>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dotnet,nodejs,spring,express,rust,cpp,c,cs,java,py,kotlin,dart,mysql,docker,github,linux&perline=10" />
 </div>
 
----
-
-### 📡 INITIAL_CONNECTION // ABOUT_ME
-```yaml
-identity:
-  name: Malcom Kamau
-  role: Full Stack Developer & Systems Engineer
-  focus: [System_Architecture, High_Performance_Computing, UI_UX_Atomic_Design]
-  status: "Bridging the gap between Human-Centric Interfaces and Metal."
-```
+<br/>
 
 ---
 
+<!-- STATISTICS -->
+<div align="center">
+  <h3> 📈 Statistics </h3>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=malcomkamau&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=000000&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcomkamau&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=000000&hide_border=false" width="42%" />
+  </p>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malcomkamau&theme=react-dark&bg_color=000000&hide_border=false" width="100%" />
+</div>
+
+<br/>
+
+---
+
+<!-- MODULES/PROJECTS -->
 ### 🏗️ ACTIVE_CONSTRUCTION_MODULES
 | MODULE_ID | PROJECT_NODE | CORE_ENGINE | STATUS |
 | :--- | :--- | :--- | :--- |
@@ -40,53 +69,10 @@ identity:
 | `0x02` | **Custom Rust Kernel** | `Rust // x86_64` | `ACTIVE_BUILD` |
 | `0x03` | **Network Infrastructure** | `Cisco // Linux` | `CONTINUOUS_INTEGRATION` |
 
----
-
-### 🚀 TECH_ORBITAL_STATIONS // STACK
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dotnet,nodejs,spring,express,rust,cpp,c,cs,java,py,kotlin,dart,mysql,docker,github,linux&perline=10" />
-</div>
-
----
-
-### 📊 DATA_STREAM // REALTIME_ANALYTICS
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malcomkamau&show_icons=true&theme=transparent&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=00000000&hide_border=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcomkamau&layout=compact&theme=transparent&title_color=ffffff&text_color=aaaaaa&bg_color=00000000&hide_border=true" />
-</p>
-
----
-
-### 🛠️ WORKSPACE_ENVIRONMENT
-```json
-{
-  "development": {
-    "os": ["Ubuntu_Linux", "Kali", "Windows_Terminal"],
-    "tooling": ["Docker", "Git", "Raspberry_Pi"],
-    "networking": ["Cisco_Certified", "TOR_Protocol"]
-  },
-  "visual_engines": {
-    "rendering": ["Blender", "Unity", "Unreal_Engine"]
-  }
-}
-```
-
----
-
-### 📡 UPLINK_CHANNELS
-<div align="center">
-
-[![Email](https://img.shields.io/badge/EMAIL-UPLINK-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malcomkamau504@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-TERMINAL-white?style=for-the-badge&logo=vercel&logoColor=black)](https://porfolio-malcomgakuo.vercel.app)
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=ffffff&bg_color=00000000" />
-</p>
+<br/>
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=malcomkamau&icon=0&color=12" />
 </p>
+
+</div>
