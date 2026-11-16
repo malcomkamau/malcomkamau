@@ -4,6 +4,10 @@ Software Engineer · Full Stack & Systems · Kenya
 
 I build things that are technically complex and easy to use.
 
+<a href="https://malcomgakuo.vercel.app">
+  <img src="https://img.shields.io/badge/Visit%20my-Portfolio-000000?style=for-the-badge&labelColor=1a1a1a&logo=data:image/png;base64,iVBORw0KGgo=" height="44" alt="Visit my Portfolio" />
+</a>
+
 ## Focus
 
 - **Operating Systems:** building my own kernel in Rust
@@ -20,6 +24,6 @@ I build things that are technically complex and easy to use.
 
 Rust · C/C++ · TypeScript · React · Next.js · Node.js · Docker · Linux
 
-## Links
+## Contact
 
-[Portfolio](https://porfolio-malcomgakuo.vercel.app) · [Email](mailto:malcomkamau504@gmail.com) · [GitHub](https://github.com/malcomkamau)
+[Email](mailto:malcomkamau504@gmail.com)
